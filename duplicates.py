@@ -5,3 +5,4 @@ if len(list_of_words) != len(removing_duplicates):
     print("no")
 else:
     print("yes")
+# ignore this statement
